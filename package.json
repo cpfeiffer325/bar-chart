@@ -1,0 +1,23 @@
+{
+  "name": "bar-chart",
+  "version": "1.0.0",
+  "description": "Stretch Project 1",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-lighthouselabs": "lighthouse-labs/eslint-config-lighthouselabs"
+  },
+  "main": "bar-chart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpfeiffer325/bar-chart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpfeiffer325/bar-chart/issues"
+  },
+  "homepage": "https://github.com/cpfeiffer325/bar-chart#readme"
+}
